@@ -81,18 +81,26 @@ These are selected from repositories currently visible on the profile; forked re
 
 ---
 
-## `contributions --snake`
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nithin-kumar-hub/Nithin-kumar-hub/output/github-snake-dark.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nithin-kumar-hub/Nithin-kumar-hub/output/github-snake-light.svg?v=1">
-  <img src="https://raw.githubusercontent.com/Nithin-kumar-hub/Nithin-kumar-hub/output/github-snake.svg?v=1" alt="GitHub contribution snake">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Nithin-kumar-hub/Nithin-kumar-hub/output/github-snake-dark.svg?v=1">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Nithin-kumar-hub/Nithin-kumar-hub/output/github-snake-light.svg?v=1">
+
+  <img
+    src="https://raw.githubusercontent.com/Nithin-kumar-hub/Nithin-kumar-hub/output/github-snake.svg?v=1"
+    alt="GitHub Contribution Snake"
+    width="100%">
 </picture>
 
 </div>
-
 ---
 
 ## `connect`
