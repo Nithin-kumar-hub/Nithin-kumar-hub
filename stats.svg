@@ -6,8 +6,8 @@
 <circle cx="120" cy="125" r="70" fill="none" stroke="#1a2730" stroke-width="12"/>
 <circle class="ring" cx="120" cy="125" r="70" fill="none" stroke="url(#g)" stroke-width="12" stroke-linecap="round" stroke-dasharray="440" stroke-dashoffset="440" transform="rotate(-90 120 125)"/>
 <text x="120" y="117" text-anchor="middle" fill="#f0f5f7" font-size="27" font-weight="800">10</text><text x="120" y="140" text-anchor="middle" fill="#8fa0ad" font-size="11">PUBLIC REPOS</text>
-<g fill="#f0f5f7" font-size="16"><g class="row"><text x="225" y="72" fill="#20d7ff">FOLLOWERS</text><text x="515" y="72" text-anchor="end" fill="#1ed760" font-weight="800">4</text></g>
-<g class="row q"><text x="225" y="112" fill="#20d7ff">FOLLOWING</text><text x="515" y="112" text-anchor="end" fill="#1ed760" font-weight="800">4</text></g>
+<g fill="#f0f5f7" font-size="16"><g class="row"><text x="225" y="72" fill="#20d7ff">FOLLOWERS</text><text x="515" y="72" text-anchor="end" fill="#1ed760" font-weight="800">5</text></g>
+<g class="row q"><text x="225" y="112" fill="#20d7ff">FOLLOWING</text><text x="515" y="112" text-anchor="end" fill="#1ed760" font-weight="800">5</text></g>
 <g class="row w"><text x="225" y="152" fill="#20d7ff">PUBLIC STARS</text><text x="515" y="152" text-anchor="end" fill="#1ed760" font-weight="800">0</text></g>
 <g class="row e"><text x="225" y="192" fill="#20d7ff">PROJECTS</text><text x="515" y="192" text-anchor="end" fill="#1ed760" font-weight="800">0</text></g></g>
 </svg>
