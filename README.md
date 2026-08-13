@@ -109,6 +109,7 @@ These are selected from repositories currently visible on the profile; forked re
 
 <a href="https://github.com/Nithin-kumar-hub"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/nithinkumar01/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=20d7ff" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/nithin_kumar_0005"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="mailto:nithinkumarnithin612@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=1ed760" alt="Email"></a>
 
 </div>
@@ -119,8 +120,14 @@ These are selected from repositories currently visible on the profile; forked re
 
 <img src="./trophies.svg?v=1" width="560" alt="Verified profile markers">
 
-### `build() → learn() → ship() → repeat()`
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Nithin-kumar-hub&color=008000&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/><br/>
 
 **BUILD • LEARN • SHIP • REPEAT**
+
+*Turning coffee into clean code and creative solutions.*
 
 </div>
