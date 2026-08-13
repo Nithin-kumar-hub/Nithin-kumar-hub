@@ -1,8 +1,11 @@
-name: Generate contribution snake
+name: Generate GitHub Contribution Snake
 
 on:
+  push:
+    branches:
+      - main
   schedule:
-    - cron: "17 0 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -10,19 +13,24 @@ permissions:
 
 jobs:
   generate:
+    name: Generate Snake
     runs-on: ubuntu-latest
+
     steps:
-      - name: Generate snake SVGs
-        uses: Platane/snk@v3
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Nithin-kumar-hub
           outputs: |
-            dist/github-snake.svg?palette=github-dark&color_snake=%231ed760&color_dots=%230d1117,%2313261b,%231f5b35,%231ed760,%23a8ffc8
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=%2320d7ff&color_dots=%230d1117,%23132836,%23205c72,%2320d7ff,%23b8f5ff
-            dist/github-snake-light.svg?palette=github-light&color_snake=%23118b45&color_dots=%23ebedf0,%23d6f5e2,%23a9e7c1,%2357c889,%23118b45
-      - name: Publish output
+            dist/github-snake.svg?color_snake=#39ff88&color_dots=#161b22,#0d3b2e,#176b52,#20a86b,#39ff88
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#39ff88&color_dots=#161b22,#0d3b2e,#176b52,#20a86b,#39ff88
+            dist/github-snake-light.svg?palette=github-light&color_snake=#087f5b&color_dots=#ebedf0,#c6f6df,#8ce9c1,#45c99a,#087f5b
+
+      - name: Publish snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: dist
+          target_branch: output
+          commit_message: "Update contribution snake"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
