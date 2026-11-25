@@ -52,7 +52,7 @@ Turning coffee into clean code and creative solutions.
 <img src="./stats.svg?v=1" alt="Verified GitHub snapshot" width="560">
 </div>
 
-The snapshot above uses the current public profile values visible on GitHub: **10 repositories, 4 followers, 4 following, 0 public stars, and 0 projects**. GitHub also identifies the account as **Nithin Kumar** and lists **Student at Canara Engineering College**. citeturn2view0
+The snapshot above uses the current public profile values visible on GitHub: **10 repositories, 6 followers, 6 following, 0 public stars, and 0 projects**. GitHub also identifies the account as **Nithin Kumar** and lists **Student at Canara Engineering College**. citeturn2view0
 
 ---
 
