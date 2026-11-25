@@ -80,8 +80,8 @@ text{font-family:ui-monospace,SFMono-Regular,Consolas,monospace}
 <rect width="330" height="108" rx="12" fill="#fff" stroke="#cad5dc"/>
 <text x="16" y="23" font-size="10" fill="#20d7ff" letter-spacing="1">GITHUB SNAPSHOT</text>
 <text x="16" y="49" font-size="12" fill="#111820">PUBLIC REPOS <tspan x="310" text-anchor="end" fill="#1ed760" font-weight="800">10</tspan></text>
-<text x="16" y="70" font-size="12" fill="#111820">FOLLOWERS <tspan x="310" text-anchor="end" fill="#1ed760" font-weight="800">4</tspan></text>
-<text x="16" y="91" font-size="12" fill="#111820">FOLLOWING <tspan x="310" text-anchor="end" fill="#1ed760" font-weight="800">4</tspan></text>
+<text x="16" y="70" font-size="12" fill="#111820">FOLLOWERS <tspan x="310" text-anchor="end" fill="#1ed760" font-weight="800">6</tspan></text>
+<text x="16" y="91" font-size="12" fill="#111820">FOLLOWING <tspan x="310" text-anchor="end" fill="#1ed760" font-weight="800">6</tspan></text>
 </g>
 
 <!-- dedicated right character zone -->
